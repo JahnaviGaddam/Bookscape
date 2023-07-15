@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912941324018",
+    "firebase_url": "https://janu-go-easy-default-rtdb.firebaseio.com",
+    "project_id": "janu-go-easy",
+    "storage_bucket": "janu-go-easy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912941324018:android:4d418b6119158c1cbea26b",
+        "android_client_info": {
+          "package_name": "com.android.goeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912941324018-4ekqojucaq2k1pgh1bdq6jurjjmv9em7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX37LSChz7RehFpf5y02JlURJvdm7Wwg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912941324018-4ekqojucaq2k1pgh1bdq6jurjjmv9em7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

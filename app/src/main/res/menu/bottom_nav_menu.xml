@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_launcher_home_foreground"
+        android:id="@+id/home"
+        android:onClick="onMenuItemClick"
+        android:title="Home"/>
+    <item
+        android:icon="@drawable/ic_launcher_filter_foreground"
+        android:id="@+id/category"
+        android:onClick="onMenuItemClick"
+        android:title="Category"/>
+    <item
+        android:icon="@drawable/ic_launcher_profile_foreground"
+        android:id="@+id/profile"
+        android:onClick="onMenuItemClick"
+        android:title="Profile"/>
+
+</menu>
